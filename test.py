@@ -7,4 +7,4 @@ for i in xrange(0, len(inn)/2):
         palindrome = False
         break
 
-print 'Palindrome?', palindrome
+print 'Palindrome!', palindrome
